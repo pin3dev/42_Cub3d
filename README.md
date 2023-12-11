@@ -22,7 +22,7 @@ This project is a simplified implementation of a RayCaster, adhering to the `cub
 
 1. Must use the miniLibX.
 2. Window management (e.g., changing to another window, minimizing, etc).
-3. Implement close the window and quit the program cleanly (`ESC` and `X`)
+3. Implement close the window and quit the program cleanly (`ESC` and ✖️)
 4. Read, interpret and validate the map from a .cub file.
 5. Ensure that the map consists of only 6 possible characters (`0`, `1`, `N`, `S`, `E` and `W`).
 6. Handle identifiers and all yours specific information on map.
