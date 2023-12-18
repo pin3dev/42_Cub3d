@@ -11,6 +11,9 @@ My first RayCaster with miniLibX 🔫
 - [Copyright](#contributors)
 
 ---
+<p align="center">
+  <img src="https://github.com/pin3dev/42_cub3D/blob/main/cub3d_running_.gif?raw=true" style="display: block; margin: 0 auto; width: 100%;">
+</p>
 
 ---
 
