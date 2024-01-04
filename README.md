@@ -40,7 +40,7 @@ This project is a simplified implementation of a RayCaster, adhering to the `cub
 
 ```bash
 make
-./cub3d
+./cub3d assets/maps/valid/valid1.cub
 ```
 <details><summary><h2 id="Theoretical Explanation">Theoretical Explanation</h2></summary>
 
